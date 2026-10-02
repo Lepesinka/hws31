@@ -1,8 +1,22 @@
 .burgerMenuIcon {
+    /* width: 18;
+    height: 2; */
+
 }
 
 .header {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 60px;
+    align-items: center;
 }
 
 .header h1 {
+    font-family: Montserrat;
+    font-weight: 600;
+    font-style: SemiBold;
+    font-size: 24px;
+    line-height: 100%;
+    letter-spacing: 0%;
+
 }

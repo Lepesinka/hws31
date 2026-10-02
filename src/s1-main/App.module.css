@@ -1,4 +1,4 @@
-.App {
+/* .App {
     --header_height: 60px;
 }
 
@@ -7,5 +7,33 @@
 }
 
 .hwTitle {
+
+} */
+
+.App {
+   
+   
+}
+
+.hw {
+    margin-left: 60px;
+   
+
+}
+
+.hwTitle {
+    font-family: Montserrat;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 100%;
+    margin-top: 20px;
+    margin-left: 60px;
+    margin-bottom: 10px;
+   
+}
+.line{
+    border: 1px solid #D9D9D9;
+    margin-bottom: 20px;
+    margin-top: 20px;
 
 }
